@@ -1,0 +1,16 @@
+#Running the Application
+#Install the necessary packages by running:
+
+Sh
+
+Abimbola
+npm install express
+
+
+#Start the server:
+
+Sh
+
+Abimbola
+node server.js
+Open client.html in your web browser to interact with the protocol.

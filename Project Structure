@@ -1,0 +1,5 @@
+wozniac_directory_access_protocol/
+├── server.js
+├── client.html
+└── directory/
+    └── example.txt
